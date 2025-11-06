@@ -4,7 +4,7 @@
 
 - Standardisation du style de code (linting, règles ESLint/TSLint, formatage Prettier) pour une base homogène. ✨
 - Architecture UI : composants réutilisables, design tokens (variables CSS / thème) pour faciliter la consistance visuelle. 🎨
-- Accessibilité et responsive : meilleures pratiques pour mobile et desktop (breakpoints, tests rapides d'a11y). ♿📱
+- Accessibilité et responsive : meilleures pratiques pour mobile et desktop (breakpoints). ♿📱
 - Documentation inline améliorée et README centralisé pour la découverte rapide du projet. 📝
 
 ## Bonnes pratiques recommandées
